@@ -8,9 +8,6 @@
 
   **Latest Version: v1.0.0**
 
-  - [Download for Apple Silicon (M1/M2/M3)](https://github.com/abroroo/elastotype-releases/releases/latest)
-  - [Download for Intel Mac](https://github.com/abroroo/elastotype-releases/releases/latest)
-
   ### Installation
 
   1. Download the DMG file for your Mac
