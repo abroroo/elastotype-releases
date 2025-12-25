@@ -1,37 +1,34 @@
- # ElastoType - Official Releases
+# ElastoType - Official Releases
 
   **AI-powered typing assistant for macOS**
 
-  Type Korean and English effortlessly. ElastoType converts your typing to the correct form in real-time across all apps in MacOS.
+  ## 📥 Download
 
-  ### 📥 Download
+  **[Latest Version: v1.0.0](https://github.com/abroroo/elastotype-releases/releases/latest)**
 
-  **Latest Version: v1.0.0**
+  | Mac Type | Download |
+  |----------|----------|
+  | **Apple Silicon** (M1/M2/M3/M4) | [ElastoType-1.0.0-arm64.dmg](https://github.com/abroroo/elastotype-releases/releases/download/v1.0.0/ElastoType-1.0.0-arm64.dmg) |
+  | **Intel** | [ElastoType-1.0.0.dmg](https://github.com/abroroo/elastotype-releases/releases/download/v1.0.0/ElastoType-1.0.0.dmg) |
 
-  ### Installation
+  ## Installation
 
-  1. Download the DMG file for your Mac
-  2. Click **"Done"** when you see the security warning
-  3. Go to **System Settings → Privacy & Security**
-  4. Click **"Open Anyway"** next to the ElastoType message
-  5. Open the DMG again and install ElastoType
-  6. Drag ElastoType to Applications folder
+  1. Download the DMG for your Mac
+  2. Drag ElastoType to Applications
+  3. Launch and grant Accessibility permission when prompted
 
-  **First Launch:** You'll need to grant Input Monitoring permission in System Settings.
+  ## Requirements
 
-  ### Features
+  - macOS 12.0 (Monterey) or later
+  - Internet connection for AI features
 
-  - Real-time romanization to Hangul conversion
-  - AI-powered spell checking for Korean and English
-  - Works across all macOS apps
-
-  ### Learn More
+  ## Links
 
   - **Website:** [elastotype.com](https://elastotype.com)
-  - **Documentation:** [Getting Started Guide](https://elastotype.com/getting-started.html)
+  - **Documentation:** [Getting Started](https://elastotype.com/getting-started.html)
   - **Support:** support@elastotype.com
 
-  ### 📄 License
+  ## License
 
   See [LICENSE](https://github.com/abroroo/elastotype-releases?tab=License-1-ov-file) for terms and conditions.
 
