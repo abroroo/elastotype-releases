@@ -34,4 +34,4 @@
 
   ---
 
-  **Copyright © 2025 abroroo. All Rights Reserved.**
+  **Copyright © 2026 abroroo. All Rights Reserved.**
