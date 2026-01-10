@@ -4,13 +4,9 @@
 
   ## 📥 Download
 
-  **[Latest Version: v1.0.0](https://github.com/abroroo/elastotype-releases/releases/latest)**
+  **[Latest Version: v1.0.2](https://github.com/abroroo/elastotype-releases/releases/latest)**
 
-  | Mac Type | Download |
-  |----------|----------|
-  | **Apple Silicon** (M1/M2/M3/M4) | [ElastoType-1.0.0-arm64.dmg](https://github.com/abroroo/elastotype-releases/releases/download/v1.0.0/ElastoType-1.0.0-arm64.dmg) |
-  | **Intel** | [ElastoType-1.0.0.dmg](https://github.com/abroroo/elastotype-releases/releases/download/v1.0.0/ElastoType-1.0.0.dmg) |
-
+ 
   ## Installation
 
   1. Download the DMG for your Mac
