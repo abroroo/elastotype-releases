@@ -1,6 +1,6 @@
 # License
 
-  Copyright © 2025 abroroo
+  Copyright © 2026 abroroo
 
   All Rights Reserved
 
