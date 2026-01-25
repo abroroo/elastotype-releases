@@ -4,7 +4,7 @@
 
   ## 📥 Download
 
-  **[Latest Version: v1.0.2](https://github.com/abroroo/elastotype-releases/releases/latest)**
+  **[Latest Version: v1.0.3](https://github.com/abroroo/elastotype-releases/releases/latest)**
 
  
   ## Installation
