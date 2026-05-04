@@ -1,11 +1,6 @@
 # ElastoType - Official Releases
 
   **AI-powered typing assistant for macOS**
-
-  ## 📥 Download
-
-  **[Latest Version: v1.0.3](https://github.com/abroroo/elastotype-releases/releases/latest)**
-
  
   ## Installation
 
